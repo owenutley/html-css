@@ -1,0 +1,29 @@
+html{
+    background-color:rgb(216, 216, 216)
+}
+
+h1{
+    margin-top: -10px;
+    margin-left: -10px;
+    width: 103%;
+    height: 144px;
+    background-color:rgb(68, 68, 68)
+}
+
+h2{
+    margin-top: -21px;
+    margin-left: 15%;
+    margin-right: 15%;
+    width: 70%;
+    height:640px;
+    background-color:rgb(240, 240, 240)
+}
+
+footer {
+    margin-top: -21px;
+    margin-left: 15%;
+    margin-right: 15%;
+    width: 70%;
+    height: 80px;
+    background-color: rgb(34, 35, 35);
+}
